@@ -6,7 +6,7 @@ Web Essentials 2013 used to perform this task for us, but unfortunately they've 
 
 
 ### Installation
-To install this extension, just visit [`Visual Studio Gallery`](https://visualstudiogallery.msdn.microsoft.com/71e99177-37b6-40d8-8669-4d61f804f0c5?SRC=VSIDE) from the `dist` folder and install it.
+To install this extension, just visit [`Visual Studio Gallery`](https://visualstudiogallery.msdn.microsoft.com/71e99177-37b6-40d8-8669-4d61f804f0c5?SRC=VSIDE) or the `dist` folder and install it.
 
 
 ### Configuration
