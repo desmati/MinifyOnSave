@@ -12,7 +12,8 @@ To install this extension, just visit [`Visual Studio Gallery`](https://visualst
 ### Configuration
 This extension provides an options page located under `Tools -> Options -> Minify On Save`. it does not work yet.
 
+
 ### Projects Used
-https://github.com/Foliotek/vs2015BuildOnSave
-https://github.com/deanhume/html-minifier
-https://github.com/madskristensen/FileNesting/blob/master/src/Nesters/ManualNester.cs
+extension: https://github.com/Foliotek/vs2015BuildOnSave
+minification: https://github.com/deanhume/html-minifier
+nesting files in project: https://github.com/madskristensen/FileNesting/blob/master/src/Nesters/ManualNester.cs
